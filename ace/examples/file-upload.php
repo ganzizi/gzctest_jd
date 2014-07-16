@@ -1,1 +1,0 @@
-<script language="javascript" type="text/javascript">window.top.window.jQuery("#").data("deferrer").resolve([]);</script>
